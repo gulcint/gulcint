@@ -17,19 +17,7 @@
 
 - **TÜBİTAK 2242 Research Project Competition Finalist, 2020**  
   Collaborated on developing a Smart Plant Irrigation System Mobile App as part of a senior capstone project. Utilized IoT technology to create an automated plant irrigation solution with real-time monitoring, advancing to the final round of this national competition.
-
----
-
-## Skills
-
-- Android
-- Kotlin
-- Compose
-- Git
-- Jetpack
-- Agile
-- MVVM
-
+  
 ---
 
 ## Volunteering
