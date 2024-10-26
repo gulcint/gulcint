@@ -1,13 +1,7 @@
-### Hi there 👋
-- 🌱 I am currently working as a software developer Akbank/Obss
-- 💬 Ask me about anything you want to learn
-- 📫 How to reach me: ce.gulcintas@gmail.com or https://www.linkedin.com/in/gulcintas/
-
 # Gülçin Taş
 
 **Android Developer**  
 📧 ce.gulcintas@gmail.com  
-📞 +90 535 080 7470  
 🌐 [LinkedIn](https://www.linkedin.com/in/gulcintas/)  
 📍 Istanbul, Turkey  
 
@@ -40,14 +34,6 @@ Istanbul, Turkey
 
 - Worked as an Android Developer for 9 months, contributing to the development, bug fixing, and app store release processes for multiple applications.
 - Engaged in end-to-end app development, ensuring smooth releases and high-quality performance across various projects.
-
----
-
-## Education
-
-**Software Engineer**  
-Çanakkale Onsekiz Mart University  
-*2016 - 2020*
 
 ---
 
